@@ -57,7 +57,7 @@ You will most likely need the following manual pages / scripting references:
 * https://docs.unity3d.com/ScriptReference/Transform.GetChild.html
 * the [SerializeField] attribute, which can go before a field declaration in a script to expose that field to the Unity Editor Inspector (e.g. `[SerializeField] float myFloatValue` will show "My Float Value" as an editable field in the Inspector when that script is used as a Component on a GameObject)
 
-The Demon of Hatred (if you are familiar with Unity and coding and want a challenge)
+### The Demon of Hatred (if you are familiar with Unity and coding and want a challenge)
 <img src="https://user-images.githubusercontent.com/7291792/187091229-df150009-ed6c-4d7b-8640-3c79fa270cbd.png" width=200/>
 
 Build the solar system above, but with the following features:
