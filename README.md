@@ -44,9 +44,9 @@ https://myuva-my.sharepoint.com/:p:/g/personal/jcb2h_virginia_edu/EQauVRZG8YZBh2
 ### Bowser (if you are new to coding, completed the “level” and want a challenge)
 ![image](https://user-images.githubusercontent.com/7291792/187090817-9c0523ad-2e40-4760-8f93-b92516b64b7f.png)
 
-Using spheres, the provided materials, and the “ObjectRotate” script provided, build a working solar system that has all the planets orbiting the sun with different orbit times (relative to each other) as well as two orbiting moons on two different planets (your choice).
+Using spheres, the provided materials, and the “ObjectRotate” script provided, build a working solar system in the "OuterSpace" Scene provided that has all the planets orbiting the sun with different orbit times (relative to each other) as well as two orbiting moons on two different planets (your choice).
 
-Make it so one planet is "Earth", has the grass texture, and the pool with water and duck on its surface.
+Make it so one planet is "Earth", has the grass material on its surface, and the pool with water and duck on the water surface.
 
 ### Hornet (if you know some coding and want a challenge)
 ![image](https://user-images.githubusercontent.com/7291792/187090928-364593f1-da58-46bc-a4a5-e777fd46fdd2.png)
