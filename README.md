@@ -49,7 +49,7 @@ Using spheres, the provided materials, and the “ObjectRotate” script provide
 Make it so one planet is "Earth", has the grass material on its surface, and the pool with water and duck on the water surface.
 
 ### Hornet (if you know some coding and want a challenge)
-![image](https://user-images.githubusercontent.com/7291792/187090928-364593f1-da58-46bc-a4a5-e777fd46fdd2.png)
+![image](https://user-images.githubusercontent.com/7291792/187090928-364593f1-da58-46bc-a4a5-e777fd46fdd2.png) {:width="200px"}
 
 Do the above, but have its speed controllable via a value you input via the inspector at Runtime (i.e. when it's playing). 
 You will most likely need the following manual pages / scripting references:
