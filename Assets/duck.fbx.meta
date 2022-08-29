@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: b56a608100b43394293d886f35486375
+guid: 483cdf18ca320c946928e63a1ba59f64
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: DuckyMat
-    second: {fileID: 2100000, guid: 993f11d498f48ea48bd2f9e0d9e4667f, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
